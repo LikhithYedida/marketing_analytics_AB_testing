@@ -152,7 +152,7 @@ Focus on high-ROI channels like YouTube & Email before scaling paid ads.
 
 (Insert your screenshots here from the images/ folder)
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](images/kpi.png)
 
 📥 How to Use This Project
 
